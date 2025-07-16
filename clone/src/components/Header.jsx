@@ -21,7 +21,8 @@ const Header = () => {
     return ( 
        <StyledAppBar>
            <Toolbar>
-               <img src={logo} alt='Indeed_logo.png' style ={{width:110 , marginBottom:15 , height:30}}/>
+            qasdW45
+                   <img src={logo} alt='Indeed_logo.png' style ={{width:110 , marginBottom:15 , height:30}}/>
                 <Box 
            sx = {{
             display : 'flex',
@@ -39,7 +40,7 @@ const Header = () => {
                         cursor : 'pointer',
                         color : 'black',
                         paddingBottom : 2,
-                        borderBottom : activeTab === tab ? '2px solid #176896' : '3px solid Transperant',
+                        borderBottom : activeTab === tab ? '2  px solid #176896' : '3px solid Transperant',
                         "&: hover" : {
                             borderBottom : "2px solid #176896",
                     },

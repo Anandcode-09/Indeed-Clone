@@ -31,6 +31,7 @@ const Welcome = () => (
             fontSize : 17, 
          }}
         > 𝐆𝐞𝐭 𝐒𝐭𝐚𝐫𝐭𝐞𝐝<span style={{fontsize: '10', marginLeft : 10,}} >→</span>  </button>
+        
      </div>
 );
     
